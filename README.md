@@ -5,3 +5,6 @@ Upon making the project, I ran into several problems and bugs that I had to fix,
 
 # Game Updates
 I am currently putting the project On Hold as said earlier, but I will eventually release AGAAGC 0.2.1 which will feature more prestige-related stuff, more upgrades and so on. However, I probably will not get to it right now because I still have to update my CST 3D project on PenguinMod and keep working on my Evades.io Effect Tester, since it still has some missing features.
+
+# Website Accessibility
+The .pmp file can be opened in PenguinMod, or the .html file can be opened in the browser. The game is also available on Itch.io so check that out too (It has other files as well)
